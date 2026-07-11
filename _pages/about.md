@@ -7,7 +7,7 @@ subtitle: Physicist. Data Scientist. Entrepreneur. <a href='https://idtools.com.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Melbourne, Australia</p>
 
@@ -25,8 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a physicist by training, data scientist, and entrepreneur by trade. I have obtained a PhD in Physics in 2008 from The University of Rome "Sapienza" (Italy) on the topic of x-ray imaging and image processing. In the first part of my career I have been a researcher and academic. I've been awarded a DECRA fellowship from the Australian Research Council in 2012.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In 2016, I have set up my own consultancy business called [Instruments & Data Tools](https://idtools.com.au), providing services in the areas of data analytics, machine learning and sensor developments. I work with governmentinstitutions, large organisations and startups to develop analytics and machine learning methods for data processing and acquisition, from prototyping to production stage.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm also the founder and current CEO of a startup called [Rubens Technologies](https://rubenstech.com), developing spectroscopy and machine learning tools for non-destructive fruit quality prediction. The product is now being commercialised worldwide, both directly and through commercial partners.
