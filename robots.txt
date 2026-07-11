@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nevernervous78.github.io/al-folio/sitemap.xml
+Sitemap: https://nevernervous78.github.io/sitemap.xml
