@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p>Physicist. Data Scientist. Entrepreneur.Australia</p> 
-<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
