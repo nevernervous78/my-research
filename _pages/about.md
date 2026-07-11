@@ -30,3 +30,7 @@ I'm a physicist by training, data scientist, and entrepreneur by trade. I have o
 In 2016, I have set up my own consultancy business called [Instruments & Data Tools](https://idtools.com.au), providing services in the areas of data analytics, machine learning and sensor developments. I work with governmentinstitutions, large organisations and startups to develop analytics and machine learning methods for data processing and acquisition, from prototyping to production stage.
 
 I'm also the founder and current CEO of a startup called [Rubens Technologies](https://rubenstech.com), developing spectroscopy and machine learning tools for non-destructive fruit quality prediction. The product is now being commercialised worldwide, both directly and through commercial partners.
+
+I have a blog called [Nirpy Research](https://nirpyresearch.com), which is an educational space dedicated to Python for chemometrics. That is machine learning applied to spectroscopy. As the focus is on education and learning, the language of the blog is simple and accessible, suitable for beginners and practitioners alike.
+
+Finally, I've co-authored the textbook [Synchrotron Light: A Physics Journey from Laboratory to Cosmos](https://global.oup.com/academic/product/synchrotron-light-9780192846280), together with David Paganin. The book was published in 2025 by OUP. We also have a [companion website](https://synchrotron-light.net) with several online resources related to the book. 
