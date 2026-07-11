@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Physicist. Data Scientist. Entrepreneur. <a href='https://idtools.com.au' target="_blank">Instruments & Data Tools</a>. <a href='https://rubenstech.com' target="_blank">Rubens Technologies</a>. <a href='https://nirpyresearch.com' target="_blank">Nirpy Research</a>..
 
 profile:
   align: right
