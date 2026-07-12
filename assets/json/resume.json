@@ -25,29 +25,29 @@
     {
       "name": "Rubens Technologies Pty Ltd",
       "position": "Founder and CEO",
-      "location": "Melbourne, Australias",
+      "location": "Melbourne, Australia",
       "startDate": "2018-01-01",
       "endDate": "",
       "summary": "Development of an innovative sensor and machine learning analytics for non-destructive quality assessment of fruit and food crops. The technology is currently being commercialised worldwide.",
       "highlights": ["Machine learning", "AgTech"]
     },
     {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": []
+      "name": "School of Science, RMIT University",
+      "position": "Research Fellow",
+      "location": "Melbourne, Australia",
+      "startDate": "2015-01-01",
+      "endDate": "2017-01-01",
+      "summary": "X-ray physics, imaging, tomography and computational imaging.",
+      "highlights": ["Imaging", "Image processing"]
     },
     {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
-      "highlights": []
+      "name": "The Australian Synchrotron",
+      "position": "Research Fellow",
+      "location": "Melbourne, Australia",
+      "startDate": "2014-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Development of the image guidance system for synchrotron microbeam radiotherapy.",
+      "highlights": ["Imaging", "Image processing"]
     },
     {
       "name": "University of Zurich",
@@ -178,20 +178,6 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
     }
   ]
 }
