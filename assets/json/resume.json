@@ -50,24 +50,22 @@
       "highlights": ["Imaging", "Image processing"]
     },
     {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
-      "highlights": []
-    }
-  ],
-  "volunteer": [
+      "name": "School of Physics, Monash University",
+      "position": "ARC DECRA Fellow",
+      "location": "Melbourne, Australia",
+      "startDate": "2012-01-01",
+      "endDate": "2014-01-01",
+      "summary": "X-ray microscopy with waveguide optical elements.",
+      "highlights": ["Imaging", "Optics"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "School of Physics, Monash University",
+      "position": "Research Fellow",
+      "location": "Melbourne, Australia",
+      "startDate": "2009-01-01",
+      "endDate": "2012-01-01",
+      "summary": "X-ray coherent diffractive imaging with crystals analysers.",
+      "highlights": ["Imaging", "Optics"]
     }
   ],
   "education": [
@@ -108,26 +106,6 @@
       "date": "2029-01-01",
       "awarder": "German Physical Society",
       "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
     }
   ],
   "publications": [
