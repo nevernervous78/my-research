@@ -119,21 +119,7 @@
       "publisher": "Oxford University Press",
       "releaseDate": "2025-08-30",
       "url": "https://global.oup.com/academic/product/synchrotron-light-9780192846280",
-      "summary": "This textbook provides the first comprehensive overview of synchrotron physics at an introductory level, covering the fundamental underpinning physics, and combining rigorous treatment of the main concepts with a fresh outlook, rich in images and graphics. Aimed at students and practitioners alike, this book describes all topics in a way that requires only undergraduate knowledge in physics and mathematics, and, with only a few exceptions, all results are derived from first principles. The book also emphasizes the relevance of the synchrotron-light concept throughout the broader fabric of physics, covering areas such as special relativity, classical electrodynamics, quantum theory, astrophysics, optical physics, classical mechanics, and computational physics."
-    },
-    {
-      "name": "Experimental x-ray ghost imaging",
-      "publisher": "Physical Review Letters",
-      "releaseDate": "2016-08-18",
-      "url": "https://doi.org/10.1103/PhysRevLett.117.113902",
-      "summary": "Experimental proof of principle for ghost imaging in the hard-x-ray energy range, using a synchrotron x-ray beam."
-    },
-    {
-      "name": "Ghost tomography",
-      "publisher": "Optics",
-      "releaseDate": "2018-03-20",
-      "url": "https://doi.org/10.1364/OPTICA.5.001516",
-      "summary": "Ghost tomography (GT) using single-pixel detection extends the burgeoning field of ghost imaging to 3D, with the use of penetrating radiation. For hard x-rays, GT has the potential to relax the constraints that dose rate and detector performance impose on image quality and resolution."
+      "summary": "This textbook provides the first comprehensive overview of synchrotron physics at an introductory level."
     }
   ],
   "skills": [
