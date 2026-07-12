@@ -4,7 +4,6 @@
     "label": "Physicist and Entrepreneur",
     "image": "",
     "email": "daniel at idtools.com.au",
-    "phone": "",
     "summary": "Optical physicst by training. Expertise in imaging, spectroscopy and data science.",
     "location": {
       "city": "Melbourne",
@@ -24,13 +23,13 @@
       "highlights": ["Machine learning", "Image processing", "Spectroscopy"]
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
+      "name": "Rubens Technologies Pty Ltd",
+      "position": "Founder and CEO",
+      "location": "Melbourne, Australias",
+      "startDate": "2018-01-01",
+      "endDate": "",
+      "summary": "Development of an innovative sensor and machine learning analytics for non-destructive quality assessment of fruit and food crops. The technology is currently being commercialised worldwide.",
+      "highlights": ["Machine learning", "AgTech"]
     },
     {
       "name": "Kaiser Wilhelm Institute for Physics",
