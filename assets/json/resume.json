@@ -7,23 +7,21 @@
     "phone": "",
     "summary": "Optical physicst by training. Expertise in imaging, spectroscopy and data science.",
     "location": {
-      "address": "",
-      "postalCode": "",
       "city": "Melbourne",
-      "countryCode": "Australia",
+      "countryCode": "AU",
       "region": "Victoria"
     },
     "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "Instruments & Data Tools Pty Ltd",
+      "position": "Director",
+      "location": "Melbourne, Australia",
+      "startDate": "2017-01-01",
+      "endDate": "",
+      "summary": "Technical solutions for data analytics, sensing, and imaging. Provides services in machine learning, image processing, optics, spectrscopy and sensor design.",
+      "highlights": ["Machine learning", "Image processing", "Spectroscopy"]
     },
     {
       "name": "California Institute of Technology",
