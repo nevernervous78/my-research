@@ -125,6 +125,14 @@
         "Imaging",
         "Optical and X-ray Spectroscopy"
       ]
+    },
+    {
+      "name": "Data Science",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Chemometrics and Machine Learning",
+        "Deep Learning"
+      ]
     }
   ],
   "languages": [
