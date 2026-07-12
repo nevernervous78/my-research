@@ -113,15 +113,6 @@
       "awarder": "Australian Research Council"
     }
   ],
-  "publications": [
-    {
-      "name": "Synchrotron Light: A Physics Journey from Laboratory to Cosmos",
-      "publisher": "Oxford University Press",
-      "releaseDate": "2025-08-30",
-      "url": "https://global.oup.com/academic/product/synchrotron-light-9780192846280",
-      "summary": "This textbook provides the first comprehensive overview of synchrotron physics at an introductory level."
-    }
-  ],
   "skills": [
     {
       "name": "Physical Sciences",
@@ -132,15 +123,7 @@
         "Classical and Quantum Optics",
         "Synchrotron Radiation",
         "Imaging",
-        "Optical and X-ray Spectroscopy",
-      ]
-    },
-    {
-      "name": "Data Science",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Chemometrics and Machine Learning",
-        "Deep Learning",
+        "Optical and X-ray Spectroscopy"
       ]
     }
   ],
