@@ -66,46 +66,51 @@
       "endDate": "2012-01-01",
       "summary": "X-ray coherent diffractive imaging with crystals analysers.",
       "highlights": ["Imaging", "Optics"]
-    }
+    },
+    {
+      "name": "Institute for Synchrotron Radiation, Karslruhe Institute of Technology",
+      "position": "Beamline scientist",
+      "location": "Karlsruhe, Germany",
+      "startDate": "2007-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Design and procurement of a new imaging beamline for the ANKA synchrotron.",
+      "highlights": ["Imaging", "Optics"]
+    },
+    {
+      "name": "Institute for Photonics and Nanotechnologies, Italian Research Council",
+      "position": "Research assistant",
+      "location": "Rome, Italy",
+      "startDate": "2003-01-01",
+      "endDate": "2004-01-01",
+      "summary": "Development of x-ray waveguide optics for laboratory sources.",
+      "highlights": ["Imaging", "Optics"]
+    }  
   ],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
+      "institution": "University of Rome 'Sapienza'",
+      "location": "Rome, Italy",
       "area": "Physics",
       "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
+      "startDate": "2005-01-01",
+      "endDate": "2008-01-01",
+      "highlights": ["Imaging", "Optics", "X-rays"]
     },
     {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
+      "institution": "University of Rome 'Sapienza'",
+      "location": "Rome, Italy",
       "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
-      "score": "",
-      "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
+      "studyType": "Master",
+      "startDate": "1999-01-01",
+      "endDate": "2003-01-01",
+      "highlights": ["Quantum optics", "Quantum information"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    },
-    {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
-      "summary": ""
+      "title": "Discovery Early Career Research Award",
+      "date": "2012-01-01",
+      "awarder": "Australian Research Council"
     }
   ],
   "publications": [
