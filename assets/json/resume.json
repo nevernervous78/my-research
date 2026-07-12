@@ -5,13 +5,13 @@
     "image": "",
     "email": "daniel at idtools.com.au",
     "phone": "",
-    "summary": "Optical physicst by training. Expertise in imaging, spectroscopy and dat science.",
+    "summary": "Optical physicst by training. Expertise in imaging, spectroscopy and data science.",
     "location": {
      "address": "",
      "postalCode": "",
-      "city": "Melbourne",
-      "countryCode": "AU",
-      "region": "Victoria"
+     "city": "Melbourne",
+     "countryCode": "AU",
+     "region": "Victoria"
     },
     "profiles": []
   },
