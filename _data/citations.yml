@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-05'
 papers:
   tQHiCnsAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -14,7 +14,7 @@ papers:
     title: Contextual realization of the universal quantum cloning machine and of the universal-NOT gate by quantum-injected optical parametric amplification
     year: '2003'
   tQHiCnsAAAAJ:1qzjygNMrQYC:
-    citations: 0
+    citations: 1
     title: 'Detect and Trace: An Australian Field Trial Using Machine-Learning Tools to Combat Illegal Wildlife Trade'
     year: '2026'
   tQHiCnsAAAAJ:2P1L_qKh6hAC:
@@ -102,7 +102,7 @@ papers:
     title: Three dimensional visualization of engineered bone and soft tissue by combined x-ray micro-diffraction and phase contrast tomography
     year: '2014'
   tQHiCnsAAAAJ:D03iK_w7-QYC:
-    citations: 29
+    citations: 30
     title: 'Tutorials on X-ray phase contrast imaging: Some fundamentals and some conjectures on future developments'
     year: '2019'
   tQHiCnsAAAAJ:D_sINldO8mEC:
@@ -502,7 +502,7 @@ papers:
     title: High-resolution X-ray techniques as new tool to investigate the 3D vascularization of engineered-bone tissue
     year: '2015'
   tQHiCnsAAAAJ:uWQEDVKXjbEC:
-    citations: 38
+    citations: 39
     title: Maturity Prediction in Yellow Peach (Prunus persica L.) Cultivars Using a Fluorescence Spectrometer
     year: '2020'
   tQHiCnsAAAAJ:ufrVoPGSRksC:
