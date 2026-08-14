@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-14'
 papers:
   tQHiCnsAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -138,7 +138,7 @@ papers:
     title: Computer simulations and experimental results on air-gap X-ray waveguides
     year: '2007'
   tQHiCnsAAAAJ:J_g5lzvAfSwC:
-    citations: 35
+    citations: 36
     title: Phase-and-amplitude recovery from a single phase-contrast image using partially spatially coherent x-ray radiation
     year: '2018'
   tQHiCnsAAAAJ:KlAtU1dfN6UC:
@@ -150,7 +150,7 @@ papers:
     title: Analysis of tapered front-coupling X-ray waveguides
     year: '2010'
   tQHiCnsAAAAJ:LPZeul_q3PIC:
-    citations: 20
+    citations: 21
     title: Hyperspectral imaging predicts macadamia nut-in-shell and kernel moisture using machine vision and learning tools
     year: '2024'
   tQHiCnsAAAAJ:LkGwnXOMwfcC:
@@ -190,7 +190,7 @@ papers:
     title: 'Ghost Tomography: supplementary material'
     year: Unknown Year
   tQHiCnsAAAAJ:P5F9QuxV20EC:
-    citations: 40
+    citations: 41
     title: Boosting spatial resolution by incorporating periodic boundary conditions into single-distance hard-x-ray phase retrieval
     year: '2020'
   tQHiCnsAAAAJ:QIV2ME_5wuYC:
@@ -486,7 +486,7 @@ papers:
     title: Status of the SPARC photoinjector
     year: '2006'
   tQHiCnsAAAAJ:roLk4NBRz8UC:
-    citations: 3
+    citations: 4
     title: "Characterization of thin films for X\u2010ray and neutron waveguiding by X\u2010ray reflectivity and atomic force microscopy"
     year: '2013'
   tQHiCnsAAAAJ:tOudhMTPpwUC:
