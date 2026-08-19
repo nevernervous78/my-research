@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-14'
+  last_updated: '2026-08-19'
 papers:
   tQHiCnsAAAAJ:-f6ydRqryjwC:
     citations: 3
     title: 'X-ray photonics: Bending X-rays with nanochannels'
     year: '2016'
   tQHiCnsAAAAJ:08ZZubdj9fEC:
-    citations: 19
+    citations: 20
     title: Paraxial diffusion-field retrieval
     year: '2023'
   tQHiCnsAAAAJ:0EnyYjriUFMC:
@@ -82,7 +82,7 @@ papers:
     title: Comparison of different numerical treatments for x-ray phase tomography of soft tissue from differential phase projections
     year: '2015'
   tQHiCnsAAAAJ:9yKSN-GCB0IC:
-    citations: 106
+    citations: 107
     title: Contextual, Optimal, and Universal Realization of the Quantum Cloning Machine and of the not Gate
     year: '2004'
   tQHiCnsAAAAJ:B3FOqHPlNUQC:
@@ -146,11 +146,11 @@ papers:
     title: Recent developments on techniques for differential phase imaging at the medical beamline of ELETTRA
     year: '2013'
   tQHiCnsAAAAJ:L8Ckcad2t8MC:
-    citations: 28
+    citations: 29
     title: Analysis of tapered front-coupling X-ray waveguides
     year: '2010'
   tQHiCnsAAAAJ:LPZeul_q3PIC:
-    citations: 21
+    citations: 22
     title: Hyperspectral imaging predicts macadamia nut-in-shell and kernel moisture using machine vision and learning tools
     year: '2024'
   tQHiCnsAAAAJ:LkGwnXOMwfcC:
@@ -226,7 +226,7 @@ papers:
     title: Status of the SPARC Project
     year: '2005'
   tQHiCnsAAAAJ:TQgYirikUcIC:
-    citations: 41
+    citations: 42
     title: "Particle evolution in Mg\u2013Zn\u2013Zr alloy processed by integrated extrusion and equal channel angular pressing: Evaluation by electron microscopy and synchrotron small-angle X-ray \u2026"
     year: '2014'
   tQHiCnsAAAAJ:Tiz5es2fbqcC:
@@ -330,7 +330,7 @@ papers:
     title: Hard x-ray contact microscopy with 250nm spatial resolution using a LiF film detector and a tabletop microsource
     year: '2006'
   tQHiCnsAAAAJ:bEWYMUwI8FkC:
-    citations: 3
+    citations: 4
     title: Advancements in X-ray waveguides and their applications in coherent diffraction imaging
     year: '2009'
   tQHiCnsAAAAJ:bFI3QPDXJZMC:
@@ -470,7 +470,7 @@ papers:
     title: Multi-modal hard x-ray imaging with a laboratory source using selective reflection from a mirror
     year: '2014'
   tQHiCnsAAAAJ:qjMakFHDy7sC:
-    citations: 475
+    citations: 476
     title: Experimental x-ray ghost imaging
     year: '2016'
   tQHiCnsAAAAJ:qxL8FJ1GzNcC:
