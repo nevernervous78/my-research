@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-08-28'
 papers:
   tQHiCnsAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -18,7 +18,7 @@ papers:
     title: 'Detect and Trace: An Australian Field Trial Using Machine-Learning Tools to Combat Illegal Wildlife Trade'
     year: '2026'
   tQHiCnsAAAAJ:2P1L_qKh6hAC:
-    citations: 85
+    citations: 86
     title: Analysis of age hardening precipitates of Al-Zn-Mg-Cu alloys in a wide range of quenching rates using small angle X-ray scattering
     year: '2018'
   tQHiCnsAAAAJ:35N4QoGY0k4C:
@@ -138,7 +138,7 @@ papers:
     title: Computer simulations and experimental results on air-gap X-ray waveguides
     year: '2007'
   tQHiCnsAAAAJ:J_g5lzvAfSwC:
-    citations: 36
+    citations: 37
     title: Phase-and-amplitude recovery from a single phase-contrast image using partially spatially coherent x-ray radiation
     year: '2018'
   tQHiCnsAAAAJ:KlAtU1dfN6UC:
@@ -150,7 +150,7 @@ papers:
     title: Analysis of tapered front-coupling X-ray waveguides
     year: '2010'
   tQHiCnsAAAAJ:LPZeul_q3PIC:
-    citations: 22
+    citations: 23
     title: Hyperspectral imaging predicts macadamia nut-in-shell and kernel moisture using machine vision and learning tools
     year: '2024'
   tQHiCnsAAAAJ:LkGwnXOMwfcC:
@@ -158,7 +158,7 @@ papers:
     title: Using coherent X-ray ptychography to probe medium-range order
     year: '2013'
   tQHiCnsAAAAJ:M05iB0D1s5AC:
-    citations: 90
+    citations: 91
     title: Ghost tomography
     year: '2018'
   tQHiCnsAAAAJ:M3NEmzRMIkIC:
@@ -266,7 +266,7 @@ papers:
     title: Coherence vortices in vortex-free partially coherent x-ray fields
     year: '2012'
   tQHiCnsAAAAJ:WF5omc3nYNoC:
-    citations: 62
+    citations: 64
     title: 'Preclinical radiotherapy at the Australian Synchrotron''s Imaging and Medical Beamline: instrumentation, dosimetry and a small-animal feasibility study'
     year: '2017'
   tQHiCnsAAAAJ:WbkHhVStYXYC:
@@ -298,7 +298,7 @@ papers:
     title: The PLASMONX Project for Advanced Beam Physics Experiments
     year: '2006'
   tQHiCnsAAAAJ:ZeXyd9-uunAC:
-    citations: 24
+    citations: 25
     title: Image guidance protocol for synchrotron microbeam radiation therapy
     year: '2016'
   tQHiCnsAAAAJ:Zph67rFs4hoC:
@@ -313,16 +313,12 @@ papers:
     citations: 15
     title: Optical characterisation of lithium fluoride detectors for broadband X-ray imaging
     year: '2013'
-  tQHiCnsAAAAJ:_kc_bZDykSQC:
-    citations: 1
-    title: Time-Resolved X-Ray Microscopy
-    year: '2021'
   tQHiCnsAAAAJ:_xSYboBqXhAC:
     citations: 0
     title: Coherent X-ray diffraction imaging of non-periodic single objects
     year: '2008'
   tQHiCnsAAAAJ:abG-DnoFyZgC:
-    citations: 93
+    citations: 94
     title: Neutron ghost imaging
     year: '2020'
   tQHiCnsAAAAJ:aqlVkmm33-oC:
@@ -380,7 +376,7 @@ papers:
   tQHiCnsAAAAJ:fQNAKQ3IYiAC:
     citations: 15
     title: Theory of X-ray phase-contrast imaging
-    year: '2017'
+    year: '2018'
   tQHiCnsAAAAJ:g5m5HwL7SMYC:
     citations: 6
     title: Statistical image reconstruction for high-throughput thermal Neutron Computed Tomography
@@ -454,7 +450,7 @@ papers:
     title: Quantitative analysis of quench sensitivity of 7xxx alloys by using small angle X-ray scattering
     year: '2016'
   tQHiCnsAAAAJ:pqnbT2bcN3wC:
-    citations: 70
+    citations: 71
     title: Towards a practical implementation of X-ray ghost imaging with synchrotron light
     year: '2018'
   tQHiCnsAAAAJ:pyW8ca7W8N0C:
@@ -470,7 +466,7 @@ papers:
     title: Multi-modal hard x-ray imaging with a laboratory source using selective reflection from a mirror
     year: '2014'
   tQHiCnsAAAAJ:qjMakFHDy7sC:
-    citations: 476
+    citations: 477
     title: Experimental x-ray ghost imaging
     year: '2016'
   tQHiCnsAAAAJ:qxL8FJ1GzNcC:
